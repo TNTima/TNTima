@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TNTima
-- 👀 I’m interested in Mindustry
-- 🌱 I’m currently learning Mindustry Logic
+- 👀 I’m interested in Funtional Programming
+- 🌱 I’m currently learning Agda
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 
